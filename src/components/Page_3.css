@@ -1,0 +1,19 @@
+.page_3{
+    margin: 35px;
+}
+
+
+.page_3 h2,p{
+    padding-top: 20px;
+    padding-bottom: 30px;
+    
+}
+
+.page_3 h1{
+    padding-bottom: 30px;
+}
+ 
+.page_3 p{
+    line-height: 1.6;
+    
+}
